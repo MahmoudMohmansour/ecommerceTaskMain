@@ -206,14 +206,14 @@ svg:hover{
 
 /* foter */
 .footer-background {
-  background-color: #ffffff;
+  background-color: #53828A;
 }
 
 .footer {
   width: 100%;
 }
 .footer-shroot {
-  color: #979797;
+  color: #fff;
   font-family: Almarai;
   font-size: 13px;
   font-weight: bold;
@@ -223,7 +223,7 @@ svg:hover{
 }
 
 .footer-phone {
-  color: #979797;
+  color: #fff;
   font-family: "Almarai";
   font-size: 13px;
   font-weight: bold;
