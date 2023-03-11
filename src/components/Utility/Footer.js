@@ -16,7 +16,7 @@ const Footer = () => {
                     </Col>
                     <Col
                         sm="6"
-                        className="d-flex justify-content-end align-items-center ">
+                        className="d-flex justify-content-end align-items-center footer-end ">
                         <div className="d-flex pt-3 mx-2">
                             <img width="20px" height="20px" src={phone} alt="" />
                             <p className="footer-phone">01018949514</p>

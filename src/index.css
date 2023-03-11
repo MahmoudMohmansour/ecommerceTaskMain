@@ -732,6 +732,10 @@ svg:hover{
   .sidebar{
     margin-top: 50px;
   }
+  .footer-end{
+    position: relative;
+    top: -15px;
+  }
 }
 
 /*
