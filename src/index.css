@@ -229,6 +229,10 @@ svg:hover{
   font-weight: bold;
   text-align: right;
   cursor: pointer;
+  margin-right: 4px;
+}
+.footer-end svg{
+  margin-right: 10px;
 }
 /* end footer */
 
